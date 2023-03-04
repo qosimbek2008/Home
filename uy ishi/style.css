@@ -1,0 +1,31 @@
+.w {
+    width: 80px;
+    border-radius: 100%;
+}
+
+body {
+    background-color: darkgreen;
+}
+
+.mb-5 {
+    margin-left: 565px;
+}
+
+.col {
+    border: 0px solid rgb(2, 69, 2);
+    background-color: rgb(2, 69, 2);
+    padding: 30px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.row {
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.as {
+    border-radius: 100%;
+    width: 50px;
+    margin-bottom: -20px;
+}
